@@ -11,6 +11,9 @@ template<typename number_t, typename index_t> number_t get_fibbonachi_number(ind
 
 int main()
 {
+    //test SokovMM 
+    //test2gitg
+    //test3
     std::cout << "Hello world!" << std::endl;
 
     const unsigned short fibbonachi_numbers_amount = 10;
