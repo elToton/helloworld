@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/karim/Desktop/Hello/helloworld/HelloWorld'
+relocations:
+  - { offsetInCU: 0x510F, offset: 0x510F, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x15C88, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5271, offset: 0x5271, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E30, symSize: 0x78 }
+...
